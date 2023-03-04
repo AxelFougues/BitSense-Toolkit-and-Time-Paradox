@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb93eaa88ab7fc54c9735ba6b086190f, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  map: {fileID: 2100000, guid: d7943382e8ad27e409f48d604e54031c, type: 2}
+  reward: {fileID: 11400000, guid: 0cd4e5a7264b17a4c8ef596b1e331186, type: 2}
+  number: 1
+  descriptionText: The first level.
+  difficulty: 0
+  completed: 5
+  played: 5

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BitSenseManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - CasterTarget
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4075388437
+    locked: 0
+  - name: Background Decorations
+    uniqueID: 2125347825
+    locked: 0
+  - name: Middleground
+    uniqueID: 3551348661
+    locked: 0
+  - name: Middleground Decorations
+    uniqueID: 1961614361
+    locked: 0
+  - name: Foreground
+    uniqueID: 748765837
+    locked: 0
+  - name: Foreground Decorations
+    uniqueID: 3124764849
+    locked: 0
+  - name: UI elements
+    uniqueID: 3209100893
+    locked: 0
